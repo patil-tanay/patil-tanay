@@ -7,7 +7,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patil-tanay&layout=compact)](https://github.com/patil-tanay/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patil-tanay&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patil-tanay&show_icons=true&theme=radial)
 
 
 <!---
