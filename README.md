@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-https://visitor-badge.glitch.me/badge?page_id=patil-tanay.visitor-badge
+![visitors]https://visitor-badge.glitch.me/badge?page_id=patil-tanay.visitor-badge
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
