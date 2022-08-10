@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+<p align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=patil-tanay.visitor-badge)
-
+</p>
 
 <h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
 
