@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=patil-tanay.visitor-badge)
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
