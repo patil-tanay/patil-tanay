@@ -35,7 +35,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patil-tanay&layout=compact)](https://github.com/patil-tanay/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patil-tanay&show_icons=true&theme=radical)
- 
+[![@tanay's Holopin board](https://holopin.me/tanay)](https://holopin.io/@tanay)
 
 
 
